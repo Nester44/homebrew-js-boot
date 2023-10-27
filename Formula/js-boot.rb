@@ -1,4 +1,4 @@
-class Getfilesize < Formula
+class JsBoot < Formula
     desc "Bootstrap projects with cli tool"
     homepage "https://github.com/nester44/homebrew-js-boot"
     url "https://github.com/Nester44/homebrew-js-boot/releases/download/v1.0.0/js-boot.tar.gz"
